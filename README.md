@@ -18,10 +18,15 @@ We work on gray-level images. So, each pixel has a value ranging from 0 to 255. 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFigure 2: Effect of the alpha-trim filter with window size = 5x5 and trim value T = 5 
 ![image](https://github.com/MinnaMohammed/Image-Filters/assets/83884890/32980637-4cda-4291-9ea4-93297ec0dd44)
+
 Image with uniform and salt & pepper noises
 
+
 ![image](https://github.com/MinnaMohammed/Image-Filters/assets/83884890/483df510-b642-4e06-892e-e94c67775f2a)
+
 Alpha-trim filter 5x5 and T = 5                             
+
+
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFigure 3: Effect of the standard median filter with different window size
 ![image](https://github.com/MinnaMohammed/Image-Filters/assets/83884890/e67c61ae-cd2e-4fe6-ad8c-896f0e78e858)![image](https://github.com/MinnaMohammed/Image-Filters/assets/83884890/9640f421-aab8-49af-bee3-55d0d08345e2)
