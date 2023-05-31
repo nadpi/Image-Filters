@@ -16,7 +16,7 @@ We work on gray-level images. So, each pixel has a value ranging from 0 to 255. 
 1.	Counting Sort
 2.	Selecting Kth smallest element in the array without sorting it (Textbook sec. 9.2). where K = T to exclude the smallest T values, then on the remaining array, apply the algorithm again to exclude the largest T values. Finally, calculate the average of the remaining values
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFigure 2: Effect of the alpha-trim filter with window size = 5x5 and trim value T = 5 
+Figure 2: Effect of the alpha-trim filter with window size = 5x5 and trim value T = 5 
 ![image](https://github.com/MinnaMohammed/Image-Filters/assets/83884890/32980637-4cda-4291-9ea4-93297ec0dd44)
 
 Image with uniform and salt & pepper noises
