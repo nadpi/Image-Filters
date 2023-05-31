@@ -1,0 +1,54 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojAssemblyReference.cache
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\mbora\Desktop\Algorithms\[2022-2023]\CHP\Project\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojAssemblyReference.cache
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\mbora\Desktop\New Template\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb

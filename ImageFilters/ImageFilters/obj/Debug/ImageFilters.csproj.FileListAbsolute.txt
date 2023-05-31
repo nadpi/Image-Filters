@@ -1,0 +1,37 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+D:\Algorithm_project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+D:\Algorithm_project\15\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
